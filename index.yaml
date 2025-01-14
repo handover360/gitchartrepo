@@ -3,12 +3,12 @@ entries:
   demochart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-14T17:01:28.7199581+09:00"
+    created: "2025-01-14T17:14:09.095044277+09:00"
     description: A Helm chart for Kubernetes
     digest: cf3b92803227ebf7773013717878a5ce521ec6cec9a2557ec981cfe1381f86d9
     name: demochart
     type: application
     urls:
-    - https://handover360.github.com/gitchartrepo/demochart-0.1.0.tgz
+    - https://raw.githubusercontent.com/handover360/gitchartrepo/main/demochart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-14T17:01:28.719296849+09:00"
+generated: "2025-01-14T17:14:09.094343914+09:00"
